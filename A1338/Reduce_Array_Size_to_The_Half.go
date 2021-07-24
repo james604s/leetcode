@@ -1,6 +1,6 @@
 package main
 import (
-	"fmt"
+	// "fmt"
     "sort"
 )
 
@@ -26,7 +26,7 @@ func minSetSize(arr []int) int {
         removed += bucket[len(bucket)-1] //加上最後一個元素
         bucket = bucket[:len(bucket)-1]  //刪除最後一個元素
     }
-    fmt.Println(res)
+    // fmt.Println(res)
 	return res
 }
 
