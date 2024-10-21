@@ -1,5 +1,4 @@
 # Leetcode
-*後端工程師 資料工程師*
 
 *程式：主Python 副Golang。*
 
@@ -20,3 +19,6 @@
 + Recursion(DFS)
 + BFS
 + Dynamic Programming
+
+### Ref
+https://leetcode.com/studyplan/leetcode-75/
