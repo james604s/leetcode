@@ -29,7 +29,7 @@ func (this *RecentCounter) Ping(t int) int {
 	return len(this.requests)
 }
 
-/*
+/*ㄔㄛ 
 make 是 Golang 中的一個內建函數，用於分配和初始化某些資料結構，包括切片、映射和通道。
 效能: 對於某些資料結構，make 可以比使用 new 關鍵字更有效率，因為它可以預先分配記憶體空間。
 */
